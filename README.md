@@ -43,4 +43,10 @@ Thank you for choosing todo!
 
 ## Samples of the App
 
-![MyToDo App](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/1_todo.jpg)
+![Calender Page](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/1_todo.jpg)
+![Category Page](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/6_todo.jpg)
+![Home Page](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/5_todo.jpg)
+![Add Task Page](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/4_todo.jpg)
+![Add Category Page](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/3_todo.jpg)
+![Add Task Page](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/2_todo.jpg)
+
