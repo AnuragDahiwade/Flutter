@@ -43,4 +43,4 @@ Thank you for choosing todo!
 
 ## Samples of the App
 
-![MyToDo App](https://drive.google.com/file/d/1Dy2jrwPO8R3TRYV4MVO28pMmLB-l0Liv/view?usp=drive_link)
+![MyToDo App](https://github.com/AnuragDahiwade/todo/blob/main/assets/sample_imgs/1_todo.jpg)
