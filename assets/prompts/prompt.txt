@@ -1,0 +1,8 @@
+---- Homepage
+create me a flutter application home page where on top in first line there have a button, a search box and another button.
+below that we have a list of tiles that contains the data extracted through the sqflite database. at the bottom of app we have three buttons in a row which stay there regardless of the number of tiles above
+
+---- add Task form
+create me a flutter application form where first line it takes a title in input form the below it it takse 
+the description in description box then it takes a start date and then end date, use the date picker for the dates.
+below that it takes status from a listview and then a category from a list view at last it have a add task button.
